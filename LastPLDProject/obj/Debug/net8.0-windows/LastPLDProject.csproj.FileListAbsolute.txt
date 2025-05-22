@@ -1,0 +1,21 @@
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.csproj.AssemblyReference.cache
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.Form1.resources
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.csproj.GenerateResource.cache
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.AssemblyInfoInputs.cache
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.AssemblyInfo.cs
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.csproj.CoreCompileInputs.cache
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\LastPLDProject.exe
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\LastPLDProject.deps.json
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\LastPLDProject.runtimeconfig.json
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\LastPLDProject.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\LastPLDProject.pdb
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\CalithaLib.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\GOLD Engine.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\bin\Debug\net8.0-windows\GoldParserEngine.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDP.33BF5270.Up2Date
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\refint\LastPLDProject.dll
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.pdb
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\LastPLDProject.genruntimeconfig.cache
+C:\Users\bassi\Desktop\LASTPLD\LastPLDProject\obj\Debug\net8.0-windows\ref\LastPLDProject.dll

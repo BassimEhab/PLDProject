@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CalithaLib">
+      <HintPath>..\..\PLDP\net7.0-windows\CalithaLib.dll</HintPath>
+    </Reference>
+    <Reference Include="GOLD Engine">
+      <HintPath>..\..\PLDP\net7.0-windows\GOLD Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="GoldParserEngine">
+      <HintPath>..\..\PLDP\net7.0-windows\GoldParserEngine.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
